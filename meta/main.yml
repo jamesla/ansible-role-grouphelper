@@ -1,0 +1,17 @@
+---
+galaxy_info:
+  author: James McCallum
+  description: Handy group helper
+  company:
+  license: BSD
+  min_ansible_version: 1.9
+  platforms:
+    - name: Ubuntu
+      versions:
+        - xenial
+        - trusty
+  galaxy_tags:
+    - group
+    - user
+    - groups
+dependencies: []
