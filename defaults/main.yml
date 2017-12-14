@@ -1,0 +1,4 @@
+## Example
+
+# group_helper:
+#   - { user: root, groups: ['group1', 'group2'] }
